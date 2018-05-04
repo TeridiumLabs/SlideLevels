@@ -1,0 +1,36 @@
+{
+	"Parser": "STD1",
+	"ID": "Warehouse_1\\Level_08_2",
+	"Width": 6,
+	"Height": 6,
+	"Entities": [
+		{
+			"Type": "Wall",
+			"X": 1,
+			"Y": 1,
+			"AdjacentWalls": 0
+		},
+		{
+			"Type": "Player",
+			"X": 2,
+			"Y": 1
+		},
+		{
+			"Type": "Wall",
+			"X": 5,
+			"Y": 1,
+			"AdjacentWalls": 0
+		},
+		{
+			"Type": "FinishFlag",
+			"X": 3,
+			"Y": 2
+		},
+		{
+			"Type": "Wall",
+			"X": 2,
+			"Y": 4,
+			"AdjacentWalls": 0
+		}
+	]
+}
